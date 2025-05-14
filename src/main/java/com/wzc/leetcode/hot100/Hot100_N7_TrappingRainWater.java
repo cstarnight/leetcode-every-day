@@ -4,7 +4,7 @@ public class Hot100_N7_TrappingRainWater {
 
     public static void main(String[] args) {
 
-        int height
+        int[] height = {0,1,0,2,1,0,1,3,2,1,2,1};
     }
 
     public int trap(int[] height) {
